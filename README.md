@@ -1,6 +1,6 @@
-# Dewline theme — documentation
+# Glowra theme — documentation
 
-Setup guide, FAQ and support for the Dewline Shopify theme (beauty & skincare).
+Setup guide, FAQ and support for the Glowra Shopify theme (beauty & skincare).
 
 Live site: https://dewline.trinityinfo.in/
 
